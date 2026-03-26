@@ -1,0 +1,5 @@
+Starting arbitrage dashboard... (REAL broker mode)
+Real broker WebSocket disabled for Binance build, using REST polling
+Error in periodic updates: could not convert string to float: '1.0s'
+INFO:     127.0.0.1:50708 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50608 - "GET / HTTP/1.1" 500 Internal Server Error

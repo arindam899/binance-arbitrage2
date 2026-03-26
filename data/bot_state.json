@@ -1,0 +1,11 @@
+{
+  "sent_alert_keys": [
+    "window:1773907200000:top:HUMAUSDT,ATHUSDT,PIXELUSDT,KITEUSDT",
+    "window:1773907200000:top:HUMAUSDT,PIXELUSDT,ATHUSDT,KITEUSDT"
+  ],
+  "last_top_symbols": [
+    "HUMAUSDT",
+    "KITEUSDT",
+    "PIXELUSDT"
+  ]
+}

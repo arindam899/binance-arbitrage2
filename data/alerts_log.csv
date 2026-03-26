@@ -1,0 +1,3 @@
+ts_utc,type,payload
+2026-03-19T06:34:20.517248+00:00,telegram_alert,"{""top_symbols"": [""HUMAUSDT"", ""ATHUSDT"", ""PIXELUSDT"", ""KITEUSDT""], ""new_symbols"": [""ATHUSDT""], ""dropped_symbols"": []}"
+2026-03-19T06:35:48.258012+00:00,telegram_alert,"{""top_symbols"": [""HUMAUSDT"", ""PIXELUSDT"", ""ATHUSDT"", ""KITEUSDT""], ""new_symbols"": [], ""dropped_symbols"": []}"
